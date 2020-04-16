@@ -143,7 +143,10 @@ path[fill="#dcddde"] {
 }
 
 .emojiPicker-3m1S-j .stickyHeader-1SS0JU>div, .unreadPillCap-3_K2q2, div.scrollerWrap-2lJEkd.firefoxFixScrollFlex-cnI2ix.da-scrollerWrap.da-firefoxFixScrollFlex.scrollerWrap-1IAIlv.da-scrollerWrap.scrollerThemed-2oenus.da-scrollerThemed.themeGhostHairline-DBD-2d>div>div:nth-child(1)>div.listItemWrapper-3X98Pc.da-listItemWrapper>div>svg>foreignObject>a>div>svg>path, a[href="https://support.discordapp.com"], .wrapper-1Rf91z .scroller-2FKFPG .listItem-2P_4kh a[href*="/channels/@me"] div, .wrapper-1Rf91z .scroller-2FKFPG .listItem-2P_4kh a[href*="/library"] div, .wrapper-1Rf91z .scroller-2FKFPG .listItem-2P_4kh a[href*="/store"] div, .scrollerWrap-2lJEkd .scroller-2FKFPG a[href="/library"] div .content-3QAtGj, .scrollerWrap-2lJEkd .scroller-2FKFPG a[href="/store"] div .content-3QAtGj, .scrollerWrap-2lJEkd .scroller-2FKFPG a[href="/channels/@me"] div .content-3QAtGj, .topSectionStreaming-1Tpf5X>header>div.avatar-3EQepX.wrapper-3t9DeA>svg>rect, .titleChecked-2wg0pd>div>svg, .title-3BE6m5>div>svg, .icon-1_QxNX, .modeSelected-1zApJ_ .icon-1_QxNX, .modeSelected-1zApJ_:hover .icon-1_QxNX, .modeUnread-1zpFdA .icon-1_QxNX, .modeUnread-1zpFdA:hover .icon-1_QxNX, .footer-1kmXd4, .protip-YaFfgO, #MemberCount:after, .helper-2c73HK, .statusIconText-3b4TkH>div, .menu-Sp6bN1>.separator-2zcjq8, .clickable-18m--O>.icon-WnO6o2, .checkbox-1ix_J3>svg, .headerStreaming-2FjmGz>div>.avatarWrapperNormal-3wFMbf>div>svg>rect, .wumpusWrapper-yrvoR3, .chat-3bRxxu>.title-3qD0b->.children-19S4PO>.iconWrapper-2OrFZ1, .blockquoteDivider-2hH8H6, .guildSeparator-3s64Iy, .toolbar-1t6TWx.da-toolbar>a>div, .base-gE7OpD .ellipsis-19qdx6, .or-3THJsp, .or-3THJsp, .wordmarkWindows-1v0lYD, div.children-19S4PO.da-children>div.iconWrapper-2OrFZ1.da-iconWrapper {
-    display: none!important;
+    background: var(--darkgrey5)!important;
+    background-color: var(--darkgrey5);
+    border-color: transparent!important;
+    box-shadow: none!important;
 }
 
 .searchBar-6Kv8R2 {
