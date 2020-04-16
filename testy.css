@@ -1,8 +1,8 @@
 :root {
-    --background-dark-primary: url(https://i.imgur.com/lP1QlZA.png);	
+    --background-dark-primary: url(https://i.imgur.com/ClA36vl.png);	
     --background-dark-secondary: #111111 !important;		
     --background-dark-tertiary: #0c0c0c !important;	
-    --background-primary: url(https://i.imgur.com/lP1QlZA.png);	
+    --background-primary: url(https://i.imgur.com/ClA36vl.png);	
     --background-secondary: #111111 !important;	
     --background-tertiary: #0c0c0c !important;	
     --background-floating: black !important;
@@ -112,7 +112,7 @@
 	width: 50px;
 	height: 50px;
 	margin: 8px 0 0 0 !important;
-	background: url(https://i.imgur.com/lP1QlZA.png);
+	background: url(https://i.imgur.com/ClA36vl.png);
 	border-radius: 25px;
 	transition: 250ms ease all; 
 }
