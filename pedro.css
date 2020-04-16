@@ -38,7 +38,7 @@
 }
 
 .scrollableContainer-2NUZem::-webkit-scrollbar-track-piece {
-    background-color: black;
+    background-color: transparent;
 }
 
 .scrollableContainer-2NUZem::-webkit-scrollbar-thumb {
