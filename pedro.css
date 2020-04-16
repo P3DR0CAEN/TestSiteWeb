@@ -1,8 +1,8 @@
 :root {
-    --background-dark-primary: #141414 !important;		
+    --background-dark-primary: url(https://cdn.discordapp.com/attachments/476154188494143498/666288979506888704/wp_InPixio.jpg);		
     --background-dark-secondary: #111111 !important;		
     --background-dark-tertiary: #0c0c0c !important;	
-    --background-primary: #141414 !important;	
+    --background-primary: url(https://cdn.discordapp.com/attachments/476154188494143498/666288979506888704/wp_InPixio.jpg);	
     --background-secondary: #111111 !important;	
     --background-tertiary: #0c0c0c !important;	
     --background-floating: black !important;
