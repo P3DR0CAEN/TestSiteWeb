@@ -1239,6 +1239,7 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 
 .theme-dark .card-3DjzTQ, .theme-dark .cardPlaceholder-1zrbbe {
     background: var(--background-primary);
+	background-repeat: no-repeat;
 }
 
 .theme-dark .card-3DjzTQ:hover {
